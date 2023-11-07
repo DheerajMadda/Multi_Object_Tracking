@@ -1,0 +1,7 @@
+easydict==1.10
+filterpy==1.4.5
+gdown==4.6.4
+lap==0.4.0
+scipy==1.8.1
+supervision==0.3.1
+ultralytics==8.0.61

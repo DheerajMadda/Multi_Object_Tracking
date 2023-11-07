@@ -1,0 +1,1 @@
+from .yolov8 import YoloV8
