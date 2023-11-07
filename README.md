@@ -27,17 +27,17 @@ This MOT component provides the following features: </br>
 
 Directory and files information:-
 
-- [data](https://github.com/DheerajMadda/Multi_Object_Tracking/blob/main/data) -> contains the sample data.
+- [data](https://github.com/DheerajMadda/Multi_Object_Tracking/tree/main/data) -> contains the sample data.
 
-- [detectors](https://github.com/DheerajMadda/Multi_Object_Tracking/detectors) -> contains the object detection class definition.
+- [detectors](https://github.com/DheerajMadda/Multi_Object_Tracking/tree/main/detectors) -> contains the object detection class definition.
 
-- [notebooks](https://github.com/DheerajMadda/Multi_Object_Tracking/notebooks) -> contains the jupyter notebook.
+- [notebooks](https://github.com/DheerajMadda/Multi_Object_Tracking/tree/main/notebooks) -> contains the jupyter notebook.
 
-- [trackers](https://github.com/DheerajMadda/Multi_Object_Tracking/trackers) -> contains the various trackers class definitions.
+- [trackers](https://github.com/DheerajMadda/Multi_Object_Tracking/tree/main/trackers) -> contains the various trackers class definitions.
 
-- [utils](https://github.com/DheerajMadda/Multi_Object_Tracking/utils) -> contains the utility functions.
+- [utils](https://github.com/DheerajMadda/Multi_Object_Tracking/tree/main/utils) -> contains the utility functions.
 
-- [requirements.txt](https://github.com/DheerajMadda/Multi_Object_Tracking/requirements.txt) -> contains the library dependency requirements.
+- [requirements.txt](https://github.com/DheerajMadda/Multi_Object_Tracking/tree/main/requirements.txt) -> contains the library dependency requirements.
 
 </br>
 </br>
