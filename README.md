@@ -210,7 +210,7 @@ Note: </br>
 ## References
 - https://github.com/RizwanMunawar/yolov8-object-tracking/blob/main/yolo/v8/detect/sort.py
 - https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking
-- https://github.com/mikel-brostrom/yolov8_tracking
+- https://github.com/mikel-brostrom/yolo_tracking
 
 </br>
 </br>
